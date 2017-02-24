@@ -7,3 +7,4 @@ Tiny nautilus scripts...
 * **edb_debugger.sh**: open selected file with edb debugger
 * **clean_zeitgeist.sh**: clean zeitgeist directory
 * **icons.sh**: open icons directory in nautilus
+* **okteta.sh**: open selected file with okteta
