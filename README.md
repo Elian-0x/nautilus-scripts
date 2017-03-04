@@ -8,3 +8,4 @@ Tiny nautilus scripts...
 * **clean_zeitgeist.sh**: clean zeitgeist directory
 * **icons.sh**: open icons directory in nautilus
 * **okteta.sh**: open selected file with okteta
+* **extract_pics_from pdf.sh**: extract all pictures from a pdf file
