@@ -10,3 +10,5 @@ Tiny nautilus scripts...
 * **okteta.sh**: open selected file with okteta
 * **extract_pics_from pdf.sh**: extract all pictures from a pdf file
 * **image2pdf.sh**: convert pictures to pdf (1 pdf for each picture)
+* **led_on.sh**: keyboard LEDs On
+* **led_off.sh**: keyboard LEDs Off
