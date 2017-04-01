@@ -12,3 +12,4 @@ Tiny nautilus scripts...
 * **image2pdf.sh**: convert pictures to pdf (1 pdf for each picture)
 * **led_on.sh**: keyboard LEDs On
 * **led_off.sh**: keyboard LEDs Off
+* **extract_pdf_cover.sh**: make thumbnail from first pdf page
