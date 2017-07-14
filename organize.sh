@@ -99,8 +99,6 @@ if [ -s "$LIST_FILES" ]
 			done < $LIST_FILES
 fi
 
-if empty "$filename" "$SRC"/"$NAME_DIR"_"$CPT_DIR" then rmdir "$filename" "$SRC"/"$NAME_DIR"_"$CPT_DIR"
-
 if test -f "$LIST_FILES"; then rm "$LIST_FILES"; fi
 
 echo "done"
