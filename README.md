@@ -14,4 +14,5 @@ Tiny nautilus scripts...
 * **led_off.sh**: keyboard LEDs Off
 * **extract_pdf_cover.sh**: make thumbnail from first pdf page
 * **organize.sh**: split a directory in subdirectory
+* **clean_wallpapers_dir.sh**: convert files to jpg
 
