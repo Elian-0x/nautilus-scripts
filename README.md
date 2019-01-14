@@ -2,6 +2,7 @@
 
 Tiny nautilus scripts...
 
+<br/>
 
 * **icons.sh**: open icons directory in nautilus
 * **clean_zeitgeist.sh**: clean zeitgeist directory
@@ -11,6 +12,7 @@ Tiny nautilus scripts...
 * **clean_wallpapers_dir.sh**: convert files to jpg
 * **edb_debugger.sh**: open selected file with edb debugger
 
+<br/>
 
 ## edit
 
@@ -19,6 +21,7 @@ Tiny nautilus scripts...
 * **okteta.sh**: open selected file with okteta
 * **strings.sh**: make text file with strings
 
+<br/>
 
 ## pdf
 
